@@ -9,10 +9,6 @@ func main() {
 
 		return
 	}
-
-	if true {
-		fmt.Println("Hello, World!")
-	}
 }
 
 func someFunction() error {
